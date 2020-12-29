@@ -1,0 +1,25 @@
+.body{
+    border:solid;
+    background: red;
+    
+}
+.info{
+    border:solid;
+    background:plum;
+}
+.footer{
+    border:solid;
+    background:powderblue;
+    display:flex;
+    justify-content: space-between;
+}
+.menu{
+    display:flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+.Intro{
+    display:flex;
+    justify-content: space-evenly;
+    background: lavender;
+}
